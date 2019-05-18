@@ -124,7 +124,7 @@ img {
 
 /********头图********/
 .headpic {
-    background: url("./img/head.jpg");
+    background: url("../img/head.jpg");
     background-size: 100%;
     margin-left: 20px;
     margin-right: 20px;
@@ -183,7 +183,7 @@ img {
 
 /********中段 部门介绍********/
 .mid-warp {
-    background: url("./img/mid.jpg");
+    background: url("../img/mid.jpg");
     height: 600px;
     margin-right: 20px;
     margin-left: 20px;
@@ -232,7 +232,7 @@ img {
 
 /********成员照片********/
 .mem-pic {
-    background: url("./img/icon.jpg");
+    background: url("../img/icon.jpg");
     width: 200px;
     height: 200px;
     background-size: 100%;
@@ -270,7 +270,7 @@ img {
 
 /********最下方疯狂安利系列********/
 .bottom {
-    background: url("./img/bottom.jpg");
+    background: url("../img/bottom.jpg");
     background-size: 100%;
     margin: 20px;
     height: 400px;
